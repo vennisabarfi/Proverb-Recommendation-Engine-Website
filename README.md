@@ -1,4 +1,4 @@
-# Proverb-Recommendation-Engine-Website
+# Proverb-Recommendation-Engine-Website (AI & LLM)
 # African Proverb Recommendation Engine
 
 ## Introduction
