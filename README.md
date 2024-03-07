@@ -16,6 +16,11 @@ The recommendation engine behind the application employs the following technique
 - **Cosine Similarity:** Cosine similarity is used to measure the similarity between embeddings of user input and proverbs.
 - **Streamlit:** The recommendation engine is integrated into a Streamlit web application, providing a simple and interactive user interface for users to interact with.
 
+## Data Collection and Processing
+I gathered African proverbs and their meanings from various websites using web scraping techniques implemented with BeautifulSoup. After collecting the data, I saved it as a CSV file for further processing.
+
+To prepare the data for analysis, we normalized, tokenized, and encoded it using advanced language learning models and AI techniques. This involved applying normalization methods to ensure consistency, tokenizing the text into individual words or tokens, and encoding the text using pre-trained language models. These preprocessing steps were essential for improving the accuracy and effectiveness of our recommendation engine.
+
 ## Installation
 1. Clone this repository:
    ```bash
